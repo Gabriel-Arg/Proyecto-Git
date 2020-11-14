@@ -1,0 +1,1 @@
+Este es un texto lineal para practicar git de platzi
