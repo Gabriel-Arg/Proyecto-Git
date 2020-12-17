@@ -2,3 +2,4 @@ Este es un texto lineal para practicar git de platzi
 Agrego una segunda linea de texto
 
 (3)Vuelvo a escribir una tercera linea de texto.
+(4)Sumo una cuarta lina de texto.
