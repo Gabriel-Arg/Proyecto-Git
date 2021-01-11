@@ -38,3 +38,11 @@ body {
 .post {
     padding: 1em;
 }
+
+/* -------------FOOTER----------------------------- */
+#footer {
+    padding: 0.5em;
+    background-color: #777;
+    color: white;
+    text-align: center;
+}
