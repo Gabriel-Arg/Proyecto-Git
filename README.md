@@ -12,11 +12,5 @@ Este es un proyecto desarrollado durante el Curso Profesional de Git y Github de
 * La utilización de buenas prácticas ✌️
 * Varios trucos 💪
 
-<<<<<<< HEAD
-=======
-> Esta es una frase
-> Esta otra es otra frase
-
->>>>>>> 1f06a65 (Cambio 2 en el readme-mejorado)
 ##### Contáctame:
 [Instagram](https://www.instagram.com/gabriel.diaz_arg/?hl=es-la) 📷
